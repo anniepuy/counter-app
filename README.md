@@ -1,4 +1,4 @@
-#Simple Counter React App
+# Simple Counter React App
 The simple counter React app does what the name says. It's an incredment counter.
 The purpose behind this application is for myself to practice using object oriented programming principals with React and use Bootstrap for the user interface. 
 
