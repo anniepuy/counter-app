@@ -1,3 +1,10 @@
+# Simple Counter React App
+The simple counter React app does what the name says. It's an incredment counter.
+The purpose behind this application is for myself to practice using object oriented programming principals with React and use Bootstrap for the user interface. 
+
+Long term, this counter react app can be included into future projects such as an ecommerce store. 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
